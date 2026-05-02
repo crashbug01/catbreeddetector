@@ -16,20 +16,20 @@ Supported Cat Breed:
 
 ## How to Use
 
-- Install all the necessary library via pip.
+- Open the <strong>_CatBreedDetector.py_</strong> and install all the necessary library via pip.
 
 - Run the <strong>_CatBreedDetector.py_</strong>.
 
 - Input the image of the cat you want to identify using the button "Input Gambar".
 
-<p align="center"><img src="assets/ui.png"></p>
+<p align="center"><img src="assets/ui.png" alt="Input Gambar"></p>
 
 - Using the button "Atur ROI", select the area of the cat fur pattern and click enter.
 
-<p align="center"><img src="assets/roi.png"></p>
+<p align="center"><img src="assets/roi.png" alt="Atur ROI"></p>
 
 - Click "Prediksi" and your cat image will be identified.
 
-<p align="center"><img src="assets/results.png"></p>
+<p align="center"><img src="assets/results.png" alt="Hasil"></p>
 
 - If you want to do another identifying, click "Reset".
