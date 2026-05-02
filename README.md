@@ -2,7 +2,7 @@
 
 ## About This Project
 
-![GitHub last commit](https://img.shields.io/github/last-commit/crashbug01/metodesaw)<br>
+![GitHub last commit](https://img.shields.io/github/last-commit/crashbug01/catbreeddetector)<br>
 
 A simple Cat Breed Detector made with python using KNN
 
